@@ -927,7 +927,7 @@ export default function Portfolio() {
       <footer className={`border-t py-8 ${isDark ? "border-white/10" : "border-black/10"}`}>
         <div className="max-w-6xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className={`font-mono text-xs ${sub}`}>© {new Date().getFullYear()} Swarna Sri R M</p>
-          <p className={`font-mono text-xs ${sub}`}>Designed & built with React, Tailwind & Framer Motion</p>
+          <p className={`font-mono text-xs ${sub}`}>Designed & developed by Swarna Sri R M</p>
         </div>
       </footer>
 
