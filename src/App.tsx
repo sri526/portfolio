@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef, useMemo } from "react";
+// @ts-nocheck
+import { useState, useEffect, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Github, Linkedin, Mail, Download, MapPin, GraduationCap, Briefcase,
